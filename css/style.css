@@ -1,3 +1,7 @@
+* {
+    font-style; "roboto";
+}
+
 img {
     width: 300px;
     height: auto;
@@ -29,6 +33,6 @@ img {
     list-style-type: none;
     padding: 12px 12px;
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
+    gap: 20px;
 }
